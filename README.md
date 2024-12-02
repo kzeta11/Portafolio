@@ -42,9 +42,11 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
 ## Autor
 
-Kevin Dylan Araya González
-Estudiante de Ingenieria Civil En Computación e Informática
-Contacto: [Correo Electronico](kevin.araya01@alumnos.ucn.cl).
+__Kevin Dylan Araya González.__
+
+__Estudiante de Ingenieria Civil En Computación e Informática.__
+
+__Contacto: [Correo Electronico](kevin.araya01@alumnos.ucn.cl).__
 
 
   

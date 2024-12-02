@@ -1,8 +1,10 @@
+import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-about',
-  imports: [],
+  imports: [HttpClientModule],
+  standalone: true,
   templateUrl: './about.component.html',
   styleUrl: './about.component.css'
 })

@@ -1,5 +1,6 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { HttpClient,HttpClientModule } from '@angular/common/http';
+import { initFlowbite } from 'flowbite';
 
 @Component({
   selector: 'app-skills',
@@ -8,8 +9,14 @@ import { HttpClient,HttpClientModule } from '@angular/common/http';
   templateUrl: './skills.component.html',
   styleUrl: './skills.component.css'
 })
-export class SkillsComponent {
+export class SkillsComponent implements OnInit {
 
   constructor() { }
+
+  ngOnInit(): void {
+    initFlowbite();
+  }
+
+
 
 }

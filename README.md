@@ -46,7 +46,7 @@ __Kevin Dylan Araya González.__
 
 __Estudiante de Ingenieria Civil En Computación e Informática.__
 
-__Contacto: [Correo Electronico](kevin.araya01@alumnos.ucn.cl).__
+__Contacto: [Correo Electronico](mailto:kevin.araya01@alumnos.ucn.cl).__
 
 
   

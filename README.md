@@ -1,59 +1,52 @@
-# Portafolio
+# Portafolio Personal
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.1.
+Este es mi portafolio personal desarrollado con Angular, Tailwind CSS y Flowbite, diseñado para exhibir mis habilidades y proyectos destacados como Ingeniero en Computación e Informática.
 
-## Development server
+## **Características**
 
-To start a local development server, run:
+- **Imagen personal:** Una representación visual profesional.  
+- **Biografía:** Una descripción que destaca mis intereses y motivaciones en informática.  
+- **Rol profesional:** Mi posición actual y mis aspiraciones en el campo.  
+- **Habilidades:** Tanto técnicas como interpersonales.  
+- **Proyectos destacados:** Ejemplos de mi trabajo, con detalles y enlaces relevantes.  
+- **Redes sociales profesionales:** Enlaces a LinkedIn, GitHub, entre otros.  
+- **Formulario de contacto:** Para facilitar la comunicación profesional.  
 
-```bash
-ng serve
-```
+## **Tecnologías Utilizadas**
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+- **Angular**: Framework para el desarrollo de aplicaciones web modernas.  
+- **Tailwind CSS**: Para estilos rápidos y personalizados.  
+- **Flowbite**: Componentes de UI predefinidos.  
 
-## Code scaffolding
+## **Requisitos Previos**
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+Antes de ejecutar el proyecto, asegúrate de tener instalado:  
 
-```bash
-ng generate component component-name
-```
+- **Node.js y npm**: Descarga desde [Node.js](https://nodejs.org).  
+- **Angular CLI**: Instálalo globalmente usando:  
+  ```bash
+  npm install -g @angular/cli
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+## Instalación y uso
 
-```bash
-ng generate --help
-```
+- **Clona el repositorio en tu máquina local:**
+  ```bash
+  git clone https://github.com/kevin-araya/portafolio.git
+  cd portafolio
+- **Instala las dependencias necesarias:**
+  ```bash
+  npm install
+- **Inicia el servidor de desarrollo:**
+  ```bash
+  ng serve
 
-## Building
+## Autor
 
-To build the project run:
+__Kevin Dylan Araya González.__
 
-```bash
-ng build
-```
+__Estudiante de Ingenieria Civil En Computación e Informática.__
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+__Contacto: [Correo Electronico](mailto:kevin.araya01@alumnos.ucn.cl).__
 
-## Running unit tests
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+  

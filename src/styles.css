@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Indicador del carrusel inactivo */
+.bg-gray-500 {
+  background-color: #bbb;
+}
+
+/* Indicador del carrusel activo */
+.bg-blue-500 {
+  background-color: #4299e1; /* Azul cuando está activo */
+}

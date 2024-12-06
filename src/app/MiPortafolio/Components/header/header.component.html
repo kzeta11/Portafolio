@@ -4,9 +4,9 @@
   <!-- Redes Sociales y Contacto (Alineadas a la derecha) -->
   <div class="absolute top-9 right-6 flex space-x-4">
     <!-- Correo -->
-    <a href="mailto:kevin.araya01@alumnos.ucn.cl">
-      <img src="/assets/email-icon.png" alt="Email" class="w-10 h-10 mr-2">
-    </a>
+    <button (click)="openContactForm()">
+    <img src="/assets/email-icon.png" alt="Email" class="w-10 h-10 mr-2">
+    </button>
 
     <!-- LinkedIn -->
     <a href="https://linkedin.com/in/kevin-dylan-araya-gonzález-7487b1337/" target="_blank">
@@ -20,3 +20,8 @@
   </div>
 
 </div>
+
+<app-forms
+  [isOpen]="isContactFormOpen"
+  (formClosed)="onFormClosed()"
+></app-forms>

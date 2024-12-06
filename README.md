@@ -31,8 +31,8 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
 - **Clona el repositorio en tu máquina local:**
   ```bash
-  git clone https://github.com/kevin-araya/portafolio.git
-  cd portafolio
+  git clone https://github.com/kzeta11/Portafolio.git
+  cd Portafolio
 - **Instala las dependencias necesarias:**
   ```bash
   npm install
